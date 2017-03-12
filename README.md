@@ -1,1 +1,2 @@
-# 23-George_the-third-homewprk
+# 23-George_the-third-homework
+这次作业我学会了用动软将数据库表生成相关代码。但是再用代码生成类图时，遇到了问题。首先是rational rose这个软件好像只能生成.java文件，也只能将.java文件进行逆向工程生成类图。然后又下了个visio软件，但是百度了，仍然找不到将代码转换为类图的方法，暂时先搁浅了。
